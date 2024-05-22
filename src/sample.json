@@ -1,0 +1,62 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Mary Kay Mallonee,Josh Campbell",
+      "title": "U-Haul driver faces multiple charges after crashing into a security barrier near White House in Lafayette Square, police say | CNN Politics",
+      "description": "The driver of a U-Haul who crashed into a security barrier in Lafayette Square near the White House Monday night was arrested on multiple charges, including threatening to kill or harm a president, vice president or family member, according to US Park Police.",
+      "url": "https://www.cnn.com/2023/05/23/politics/dc-uhaul-crash-charges/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230523150040-01-white-house-u-haul-crash-threats.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-05-23T07:27:20Z",
+      "content": "The driver of a U-Haul who crashed into a security barrier in Lafayette Square near the White House Monday night was arrested on multiple charges, including threatening to kill or harm a president, v… [+1803 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Special Section: The Unregulated Podcast",
+      "description": "The Unregulated Podcast is hosted by Washington Times columnist, Mike McKenna and Tom Pyle, President of the American Energy Alliance. Each week they dig into the latest in energy, politics, and anything else that is on their minds.",
+      "url": "https://www.washingtontimes.com/specials/unregulated-podcast/",
+      "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/UnregulatedThumbnail.jpg",
+      "publishedAt": "2023-05-22T18:37:28.1952619Z",
+      "content": "The Unregulated Podcast is hosted by Washington Times columnist, Mike McKenna and Tom Pyle, President of the American Energy Alliance. Each week they dig into the latest in energy, politics, and anyt… [+1679 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Mark Davis",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+      "publishedAt": "2023-03-01T12:07:28.8517009Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
